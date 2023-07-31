@@ -4,6 +4,7 @@ Control: 'WASD' + mouse
 
 ![doom](/sreenshots/0.gif)
 
+# This project coding is done in python progamming language 
 
 # we will create a game for this we use the principles and techniques on which the Wolfenstein 3d game is built and also stylize it as a doom game.
 # we need to know that Wolfenstein 3d is based on the ray casting algorithm in reality it is performed on a two-dimensional plane.
